@@ -12,5 +12,5 @@
     
 - **Bước 2: AI Đề xuất:** AI phân tích và trả về 3 cái tên. Trưởng phòng nhận thức rõ đây chỉ là gợi ý tham khảo dựa trên số liệu bề mặt, AI hoàn toàn không có thẩm quyền hay tư cách ra phán quyết thay thế con người.  
     
-- **Bước 3: Trưởng phòng thẩm định & Ký quyết định (Human-in-the-loop):**Trưởng phòng không được ký duyệt ngay lập tức mà phải kiểm tra lại hồ sơ thực tế, đối thoại trực tiếp với nhân sự, sau đó mới ra quyết định sa thải và đích thân ký tên chịu 100% trách nhiệm. 
+- **Bước 3: Trưởng phòng thẩm định & Ký quyết định (Human-in-the-loop):** Trưởng phòng không được ký duyệt ngay lập tức mà phải kiểm tra lại hồ sơ thực tế, đối thoại trực tiếp với nhân sự, sau đó mới ra quyết định sa thải và đích thân ký tên chịu 100% trách nhiệm. 
 
